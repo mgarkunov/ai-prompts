@@ -1,5 +1,7 @@
 # AI Prompts / Шаблоны промптов для ИИ
 
+![AI Prompts — reusable prompt templates](assets/github-social-preview.jpg)
+
 ## English
 
 An open collection of reusable prompt templates for working with AI.
