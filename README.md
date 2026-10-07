@@ -1,5 +1,7 @@
 # AI Prompts / Шаблоны промптов для ИИ
 
+![AI Prompts — reusable prompt templates](assets/github-social-preview.jpg)
+
 ## English
 
 An open collection of reusable prompt templates for working with AI.
@@ -12,12 +14,13 @@ These are not ready-made requests for every possible situation. They are prompt 
 
 ### Available templates
 
-| Template | Description |
-| --- | --- |
-| [Research Prompt](prompts/en/research-prompt.md) | Creates a self-contained prompt for planning and carrying out a research task. |
-| [Brief and Requirements Prompt](prompts/en/brief-and-requirements-prompt.md) | Creates a self-contained prompt for preparing a task brief and requirements. |
-| [Decision Analysis Prompt](prompts/en/decision-analysis-prompt.md) | Creates a self-contained prompt for an evidence-based decision analysis. |
-| [Fact-Checking Prompt for a Text](prompts/en/fact-check-prompt.md) | Creates a self-contained prompt for fact-checking a completed text or set of claims. |
+| Template                                                                                                   | Description                                                                                                                                |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Research Prompt](prompts/en/research-prompt.md)                                                           | Creates a self-contained prompt for planning and carrying out a research task.                                                             |
+| [Brief and Requirements Prompt](prompts/en/brief-and-requirements-prompt.md)                               | Creates a self-contained prompt for preparing a task brief and requirements.                                                               |
+| [Decision Analysis Prompt](prompts/en/decision-analysis-prompt.md)                                         | Creates a self-contained prompt for an evidence-based decision analysis.                                                                   |
+| [Fact-Checking Prompt for a Text](prompts/en/fact-check-prompt.md)                                         | Creates a self-contained prompt for fact-checking a completed text or set of claims.                                                       |
+| [Digital Lead Generation Strategy Prompt](prompts/en/digital-lead-generation-strategy-prompt.md)           | Creates a self-contained prompt for a micro or small business strategy covering lead acquisition, qualification, sales, and CRM selection. |
 
 ### How to use
 
@@ -39,12 +42,13 @@ Templates describe a task; they do not grant permission to publish, send data, c
 
 ### Доступные шаблоны
 
-| Шаблон | Назначение |
-| --- | --- |
-| [Промпт для исследования](prompts/ru/research-prompt.md) | Создаёт самодостаточный промпт для планирования и проведения исследования. |
-| [Промпт для брифа и требований](prompts/ru/brief-and-requirements-prompt.md) | Создаёт самодостаточный промпт для подготовки брифа и требований к задаче. |
-| [Промпт для анализа решения](prompts/ru/decision-analysis-prompt.md) | Создаёт самодостаточный промпт для обоснованного анализа решения. |
-| [Промпт для фактчекинга текста](prompts/ru/fact-check-prompt.md) | Создаёт самодостаточный промпт для фактчекинга готового текста или набора утверждений. |
+| Шаблон                                                                                                           | Назначение                                                                                                          |
+| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| [Промпт для исследования](prompts/ru/research-prompt.md)                                                         | Создаёт самодостаточный промпт для планирования и проведения исследования.                                          |
+| [Промпт для брифа и требований](prompts/ru/brief-and-requirements-prompt.md)                                     | Создаёт самодостаточный промпт для подготовки брифа и требований к задаче.                                          |
+| [Промпт для анализа решения](prompts/ru/decision-analysis-prompt.md)                                             | Создаёт самодостаточный промпт для обоснованного анализа решения.                                                   |
+| [Промпт для фактчекинга текста](prompts/ru/fact-check-prompt.md)                                                 | Создаёт самодостаточный промпт для фактчекинга готового текста или набора утверждений.                              |
+| [Промпт для Digital-стратегии привлечения лидов и заявок](prompts/ru/digital-lead-generation-strategy-prompt.md) | Создаёт самодостаточный промпт для стратегии микро- или малого бизнеса: рынок, каналы, заявки, продажи и выбор CRM. |
 
 ### Как пользоваться
 
